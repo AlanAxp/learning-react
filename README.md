@@ -10,3 +10,7 @@ It sets up your development environment so that you can use the latest JavaScrip
 npx create-react-app my-app
 cd my-app
 npm start
+
+
+* Para que el proyecto inicie con typescript necesitamos usar
+npx create-react-app my-app --template typescript
